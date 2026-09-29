@@ -1,0 +1,7 @@
+node_modules
+.next
+.tools
+out
+*.log
+.DS_Store
+1
